@@ -1,9 +1,7 @@
 # To-Do List Project
 
 ## Interface
-![Interface](https://raw.githubusercontent.com/luqmanherifa/todolist-project/refs/heads/main/screenshot-01.png)
-![Interface](https://raw.githubusercontent.com/luqmanherifa/todolist-project/refs/heads/main/screenshot-02.png)
-![Interface](https://raw.githubusercontent.com/luqmanherifa/todolist-project/refs/heads/main/screenshot-03.png)  
+![Interface](https://raw.githubusercontent.com/luqmanherifa/todolist-project/refs/heads/main/screenshot-00.png)
 
 ## Software
 ### Languages
